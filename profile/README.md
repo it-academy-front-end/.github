@@ -34,64 +34,64 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
   
 #### Sprint 1 - Jen Simmons
 - [Unitat 1 – Sistemes de Disseny i Prototipatge per a Projectes Digitals]  
-- [Unitat 2 – Maquetació: HTML Semàntic i CSS Modern per a Webs Responsives i Inclusives]()  
-- [Unitat 3 – Frameworks i Biblioteques d'Estils en Aplicacions Web]()  
-- [Unitat 4 – JavaScript Modern i Bones Pràctiques: Fonaments per a Desenvolupament Escalable]()
-- [Unitat 5 – Processos i entorns de desplegament d'aplicacions web]()
-- [Unitat 6 – Depuració del codi: Eines i Tècniques]()
+- [Unitat 2 – Maquetació: HTML Semàntic i CSS Modern per a Webs Responsives i Inclusives]
+- [Unitat 3 – Frameworks i Biblioteques d'Estils en Aplicacions Web]
+- [Unitat 4 – JavaScript Modern i Bones Pràctiques: Fonaments per a Desenvolupament Escalable]
+- [Unitat 5 – Processos i entorns de desplegament d'aplicacions web]
+- [Unitat 6 – Depuració del codi: Eines i Tècniques]
 
 #### Sprint 2 - Grace Hopper
-- [Unitat 1 – Treballant amb TypeScript en el Desenvolupament Web]()  
-- [Unitat 2 – Testing en JavaScript i TypeScript]()  
-- [Unitat 3 – POO - SOLID - patterns AMB TypeScript]()  
-- [Unitat 4 – Qualitat de Codi i IA per a Desenvolupament Web]()
+- [Unitat 1 – Treballant amb TypeScript en el Desenvolupament Web]
+- [Unitat 2 – Testing en JavaScript i TypeScript]
+- [Unitat 3 – POO - SOLID - patterns AMB TypeScript]
+- [Unitat 4 – Qualitat de Codi i IA per a Desenvolupament Web]
 
-#### Sprint 3 - Radia Perlman
-- [Unitat 1 – Serveis Front-end de consum d'apis amb Fetch i Axios]()  
-- [Unitat 2 – Bases de dades]()  
-- [Unitat 3 – BackEnd APIRest: Node-expres]()  
-- [Unitat 4 – Desenvolupament Backend Serverless amb Firebase i Supabase]()
+#### Sprint 3 - Radia Perlman (WIP)
+- [Unitat 1 – Serveis Front-end de consum d'apis amb Fetch i Axios]
+- [Unitat 2 – Bases de dades]
+- [Unitat 3 – BackEnd APIRest: Node-expres]  
+- [Unitat 4 – Desenvolupament Backend Serverless amb Firebase i Supabase]
 
-#### Sprint 4 - Katie Bouman 
-- [Unitat 1 – ---------]()  
-- [Unitat 2 – ---------]()  
-- [Unitat 3 – ---------]()
-- [Unitat 4 – ---------]()
+#### Sprint 4 - Katie Bouman (WIP)
+- [Unitat 1 – ---------]
+- [Unitat 2 – ---------] 
+- [Unitat 3 – ---------]
+- [Unitat 4 – ---------]
 
-#### Sprint 5 - lea Verou
-- [Unitat 1 – ---------]()  
-- [Unitat 2 – ---------]()
-- [Unitat 3 – ---------]()  
-- [Unitat 4 – ---------]()
+#### Sprint 5 - lea Verou (WIP)
+- [Unitat 1 – ---------]
+- [Unitat 2 – ---------]
+- [Unitat 3 – ---------]  
+- [Unitat 4 – ---------]
 
-#### Sprint 6 - Reshma Saujani
-- [Unitat 1 – ---------]()
-- [Unitat 2 – ---------]()  
-- [Unitat 3 – ---------]()
-- [Unitat 4 – ---------]()
+#### Sprint 6 - Reshma Saujani (WIP)
+- [Unitat 1 – ---------]
+- [Unitat 2 – ---------] 
+- [Unitat 3 – ---------]
+- [Unitat 4 – ---------]
 
-#### Sprint 7 - Marissa Mayer
-- [Unitat 1 – ---------]()
-- [Unitat 2 – ---------]()  
-- [Unitat 3 – ---------]()
-- [Unitat 4 – ---------]()
+#### Sprint 7 - Marissa Mayer (WIP)
+- [Unitat 1 – ---------]
+- [Unitat 2 – ---------]
+- [Unitat 3 – ---------]
+- [Unitat 4 – ---------]
 ---
 
 ### 📦 3. Projectes de Sprint
 
 Durant la formació es desenvolupen **5 projectes** que permeten aplicar els coneixements treballats:
 
-1. [Projecte 1 – Component library + toolchain]()  
-2. [Projecte 2 – Maquetació responsive]()  
-3. [Projecte 3 – Aplicació amb JS pur]()  
-4. [Projecte 4 – SPA amb React]()  
-5. [Projecte 5 – SPA amb Angular]()
+1. [Projecte 1 – ITAlumini](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-1-italumni)
+2. [Projecte 2 – Budget] (WIP)
+3. [Projecte 3 – Movies]  (WIP)
+4. [Projecte 4 – Inprocode] (WIP)
+5. [Projecte 5 – Final project] (WIP)
 
 ---
 
 ### ✅ 4. Avaluació
 
-- [Prova de nivell tècnic inicial (HTML, CSS, JS)]()
-- [Qüestionari Sprint 0-2]()  
-- [Qüestionari Sprint 3-5]()  
-- [Qüestionari final del curs]()
+- [Prova de nivell tècnic inicial (HTML, CSS, JS, Testing)](https://github.com/it-academy-front-end/js-test-level-fizz-buzz)
+- [Qüestionari 0](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/avaluaci%C3%B3/questionaris/questionari0.md) 
+- [Qüestionari Basics](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/avaluaci%C3%B3/questionaris/questionariBasics.md) WIP
+- [Qüestionari Especialitat](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/avaluaci%C3%B3/questionaris/questionariEspecialitat.md) WIP
