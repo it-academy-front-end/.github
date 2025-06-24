@@ -33,7 +33,7 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 - [Unitat 6: Organització y Metodologia](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-6.md)
   
 #### Sprint 1 - Jen Simmons
-- [Unitat 1 – Sistemes de Disseny i Prototipatge per a Projectes Digitals]()  
+- [Unitat 1 – Sistemes de Disseny i Prototipatge per a Projectes Digitals]  
 - [Unitat 2 – Maquetació: HTML Semàntic i CSS Modern per a Webs Responsives i Inclusives]()  
 - [Unitat 3 – Frameworks i Biblioteques d'Estils en Aplicacions Web]()  
 - [Unitat 4 – JavaScript Modern i Bones Pràctiques: Fonaments per a Desenvolupament Escalable]()
