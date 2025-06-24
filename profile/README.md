@@ -20,8 +20,14 @@ Aquí trobaràs **tots els recursos del programa**: des dels sprints formatius f
 
 ---
 <details open>
-<summary>Sprint 0 - Berners Lee</summary>
-<br>
+  <summary>Sprint 0 - Berners Lee</summary>
+  <br>
+  <ol>
+    <li>
+      <a link="https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-1.md">Unitat 1: Fonaments d’Aplicacions Web</a>
+    </li>
+  </ol>
+
 - [Unitat 1: Fonaments d’Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-1.md)  
 - [Unitat 2: Terminal: Ordres Bàsiques](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-2.md)
 - [Unitat 3: Eines de Desenvolupament Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-3.md)
