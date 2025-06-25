@@ -12,6 +12,9 @@ Aquí trobaràs **tots els recursos del programa**: des dels sprints formatius f
 
 ## Estructura de la formació
 
+### Roadmap
+-- --- ---
+
 ### 🚀 1. Contingut transversal i bones pràctiques
 
 - [Bones Pràctiques de Lliuraments](https://github.com/it-academy-front-end/best-practices-guides/blob/main/lliuraments-bones-practiques.md) → Guia per lliurar projectes de manera professional.
