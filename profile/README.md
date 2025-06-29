@@ -13,6 +13,9 @@ Aquí trobaràs **tots els recursos del programa**: des dels sprints formatius f
 ## Estructura de la formació
 
 ### Roadmap
+
+<img alt="Roadmap ITAcademy" src="./Roadmap ITAcademy-Front-End.jpg" />
+
 -- --- ---
 
 ### 🚀 1. Contingut transversal i bones pràctiques
