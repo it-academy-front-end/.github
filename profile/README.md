@@ -31,83 +31,58 @@ Aquí trobaràs **tots els recursos del programa**: des dels sprints formatius f
 
 Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavaluació i lliuraments.
 
-<details open>
-  <summary>Sprint 0 - Berners Lee</summary>
-  <br>
-  <ul>
-    <li>
-      <a href="https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-1.md">Unitat 1: Fonaments d’Aplicacions Web</a>
-    </li>
-    <li>
-      <a href="https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-2.md">Unitat 2: Terminal: Ordres Bàsiques</a>
-    </li>
-    <li>
-      <a href="https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-3.md">Unitat 3: UEines de Desenvolupament Web</a>
-    </li>
-    <li>
-      <a href="https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-4.md">Unitat 4: Sistemes de Control de Versions</a>
-    </li>
-    <li>
-      <a href="https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-5.md">Unitat 5: Anàlisis Funcional i Diagramació Lògica</a>
-    </li>
-    <li>
-      <a href="https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-6.md">Unitat 6: Organització y Metodologia</a>
-    </li> 
-  </ul>
-</details>
-
-#### Sprint 0 - Berners Lee
-- [Unitat 1: Fonaments d’Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-1.md)  
-- [Unitat 2: Terminal: Ordres Bàsiques](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-2.md)
-- [Unitat 3: Eines de Desenvolupament Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-3.md)
-- [Unitat 4: Sistemes de Control de Versions](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-4.md)  
-- [Unitat 5: Anàlisis Funcional i Diagramació Lògica](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-5.md)
-- [Unitat 6: Organització y Metodologia](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-6.md)
+#### Sprint 0 - Berners-Lee
+- [Unitat 1 – Fonaments d’Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-1.md)  
+- [Unitat 2 – Terminal: Ordres Bàsiques](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-2.md)
+- [Unitat 3 – Eines de Desenvolupament Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-3.md)
+- [Unitat 4 – Sistemes de Control de Versions](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-4.md)  
+- [Unitat 5 – Anàlisis Funcional i Diagramació Lògica](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-5.md)
+- [Unitat 6 – Organització y Metodologia](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-0-berners-lee/sprint-0-unitat-6.md)
   
 #### Sprint 1 - Jen Simmons
-- [Unitat 1 – Sistemes de Disseny i Prototipatge per a Projectes Digitals]  
-- [Unitat 2 – Maquetació: HTML Semàntic i CSS Modern per a Webs Responsives i Inclusives]
-- [Unitat 3 – Frameworks i Biblioteques d'Estils en Aplicacions Web]
-- [Unitat 4 – JavaScript Modern i Bones Pràctiques: Fonaments per a Desenvolupament Escalable]
-- [Unitat 5 – Processos i entorns de desplegament d'aplicacions web]
-- [Unitat 6 – Depuració del codi: Eines i Tècniques]
+- [Unitat 1 – Sistemes de Disseny i Prototipatge per a Projectes Digitals](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-1-jen-simons/sprint-1-unitat-1.md)  
+- [Unitat 2 – Maquetació: HTML Semàntic i CSS Modern per a Webs Responsives i Inclusives](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-1-jen-simons/sprint-1-unitat-2.md)
+- [Unitat 3 – Frameworks i Biblioteques d'Estils en Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-1-jen-simons/sprint-1-unitat-3.md)
+- [Unitat 4 – JavaScript Modern i Bones Pràctiques: Fonaments per a Desenvolupament Escalable](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-1-jen-simons/sprint-1-unitat-4.md)
+- [Unitat 5 – Processos i entorns de desplegament d'aplicacions web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-1-jen-simons/sprint-1-unitat-5.md)
+- [Unitat 6 – Depuració del codi: Eines i Tècniques](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-1-jen-simons/sprint-1-unitat-6.md)
 
 #### Sprint 2 - Grace Hopper
-- [Unitat 1 – Treballant amb TypeScript en el Desenvolupament Web]
-- [Unitat 2 – Testing en JavaScript i TypeScript]
-- [Unitat 3 – POO - SOLID - patterns AMB TypeScript]
-- [Unitat 4 – Qualitat de Codi i IA per a Desenvolupament Web]
+- [Unitat 1 – Tipat Estàtic: TypeScript (tipat fort i autocompletat intel·ligent)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-1.md)
+- [Unitat 2 – Fonaments de proves i Test-Driven Development (TDD) en TypeScript](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-2.md)
+- [Unitat 3 – Eines de Qualitat: Linting (ESLint), formateig (Prettier), i hooks de Git (Husky)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-3.md)
+- [Unitat 4 – IA Aplicada: Generació, revisió i optimització de codi assistida per intel·ligència artificial](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-4.md)
+- [Unitat 5 – Seguretat Automatitzada i Mètriques de Qualitat en Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-5.md)
 
 #### Sprint 3 - Radia Perlman (WIP)
-- [Unitat 1 – Serveis Front-end de consum d'apis amb Fetch i Axios]
-- [Unitat 2 – Bases de dades]
-- [Unitat 3 – BackEnd APIRest: Node-expres]  
-- [Unitat 4 – Desenvolupament Backend Serverless amb Firebase i Supabase]
+- [Unitat 1 – Serveis Front-end de consum d'apis amb Fetch i Axios](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-3-radia-perlman/sprint3-unitat-1.md)
+- [Unitat 2 – Bases de dades](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-3-radia-perlman/sprint3-unitat-2.md)
+- [Unitat 3 – BackEnd APIRest: Node-expres](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-3-radia-perlman/sprint3-unitat-3.md)  
+- [Unitat 4 – Backend as a Service (BaaS)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-3-radia-perlman/sprint3-unitat-4.md)
+- [Unitat 5 – Autenticació i Autorització en Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-3-radia-perlman/sprint3-unitat-5.md)
 
 #### Sprint 4 - Katie Bouman (WIP)
-- [Unitat 1 – ---------]
-- [Unitat 2 – ---------] 
-- [Unitat 3 – ---------]
-- [Unitat 4 – ---------]
+- [Unitat 1 – Introducció a la Filosofia de React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-1.md)
+- [Unitat 2 – Composició de Components, JSX i Props](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-2.md) 
+- [Unitat 3 – Ús d'estils en components React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-3.md)
+- [Unitat 4 – Gestió d'Esdeveniments i de l'estat amb el hook `useState()` ](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-4.md)
+- [Unitat 5 – Test de Components en React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-5.md)
 
-#### Sprint 5 - lea Verou (WIP)
-- [Unitat 1 – ---------]
-- [Unitat 2 – ---------]
-- [Unitat 3 – ---------]  
-- [Unitat 4 – ---------]
+
+#### Sprint 5 - Lea Verou (WIP)
+- [Unitat 1 – Enrutament Web amb React Router](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-lea-verou/sprint-5-unitat-1.md)
+- [Unitat 2 – Gestió d'Efectes Secundaris en React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-lea-verou/sprint-5-unitat-2.md)
+- [Unitat 3 – Arquitectura i patrons](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-lea-verou/sprint-5-unitat-3.md)
+- [Unitat 4 – Gestió de l'Estat Global amb React Context](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-lea-verou/sprint-5-unitat-4.md)
+- [Unitat 5 – Custom hooks](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-lea-verou/sprint-5-unitat-5.md)
 
 #### Sprint 6 - Reshma Saujani (WIP)
-- [Unitat 1 – ---------]
-- [Unitat 2 – ---------] 
-- [Unitat 3 – ---------]
-- [Unitat 4 – ---------]
+- [Unitat 1 – Introducció a Next.js](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-reshma-saujani/sprint-6-unitat-1.md)
+- [Unitat 2 – Gestió d'estat global (Redux Toolkit + React Query)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-reshma-saujani/sprint-6-unitat-2.md)
+- [Unitat 3 – Formularis i Authenticació amb Next.js](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-reshma-saujani/sprint-6-unitat-3.md)
+- [Unitat 4 – Rendiment i Optimització d'aplicacions amb Next.js](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-reshma-saujani/sprint-6-unitat-4.md)
+- [Unitat 5 – Creació d'Aplicacions Web amb IA(Vercel v0)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-reshma-saujani/sprint-6-unitat-5.md)
 
-#### Sprint 7 - Marissa Mayer (WIP)
-- [Unitat 1 – ---------]
-- [Unitat 2 – ---------]
-- [Unitat 3 – ---------]
-- [Unitat 4 – ---------]
----
 
 ### 📦 3. Projectes de Sprint
 
