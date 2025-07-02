@@ -20,6 +20,7 @@ Aquí trobaràs **tots els recursos del programa**: des dels sprints formatius f
 
 ### 🚀 1. Contingut transversal i bones pràctiques
 
+- [Onboarding]→  Normes ITAcademy, metodologia del bootcamp i dinàmiques de l'aula. WIP
 - [Bones Pràctiques de Lliuraments](https://github.com/it-academy-front-end/best-practices-guides/blob/main/lliuraments-bones-practiques.md) → Guia per lliurar projectes de manera professional.
 - [Bones Pràctiques Code Review P2P](https://github.com/it-academy-front-end/best-practices-guides/blob/main/code-review-p2p-bones-practiques.md) → Guia per fer revisions constructives entre companys.
 - [Guía per la Presentació i Demo d’un Projecte ](https://github.com/it-academy-front-end/best-practices-guides/blob/main/demo-bones-practiques.md)→  Guia per preparar *demos* tècniques del software desenvolupat.
@@ -89,10 +90,10 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 Durant la formació es desenvolupen **5 projectes** que permeten aplicar els coneixements treballats:
 
 1. [Projecte 1 – ITAlumini](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-1-italumni)
-2. [Projecte 2 – Budget] (WIP)
-3. [Projecte 3 – Movies]  (WIP)
-4. [Projecte 4 – Inprocode] (WIP)
-5. [Projecte 5 – Final project] (WIP)
+2. [Projecte 2 – Budget](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-2-budget)
+3. [Projecte 3 – Movies](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-3-movies)
+4. [Projecte 4 – Inprocode](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-3-movies)
+5. [Projecte 5 – Final project](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-5-final)
 
 ---
 
