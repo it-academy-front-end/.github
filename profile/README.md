@@ -63,11 +63,11 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 - [Unitat 5 – Autenticació i Autorització en Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-3-radia-perlman/sprint3-unitat-5.md)
 
 #### Sprint 4 - Katie Bouman (WIP)
-- [Unitat 1 – Introducció a la Filosofia de React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-1.md)
-- [Unitat 2 – Composició de Components, JSX i Props](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-2.md) 
-- [Unitat 3 – Ús d'estils en components React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-3.md)
-- [Unitat 4 – Gestió d'Esdeveniments i de l'estat amb el hook `useState()` ](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-4.md)
-- [Unitat 5 – Test de Components en React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-katie-Bouman/sprint-4-unitat-5.md)
+- [Unitat 1 – Introducció a la Filosofia de React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-react-katie-Bouman/sprint-4-unitat-1.md)
+- [Unitat 2 – Composició de Components, JSX i Props](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-react-katie-Bouman/sprint-4-unitat-2.md) 
+- [Unitat 3 – Ús d'estils en components React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-react-katie-Bouman/sprint-4-unitat-3.md)
+- [Unitat 4 – Gestió d'Esdeveniments i de l'estat amb el hook `useState()` ](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-react-katie-Bouman/sprint-4-unitat-4.md)
+- [Unitat 5 – Test de Components en React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-react-katie-Bouman/sprint-4-unitat-5.md)
 
 
 #### Sprint 5 - Lea Verou (WIP)
