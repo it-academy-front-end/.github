@@ -51,7 +51,7 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 #### Sprint 2 - Grace Hopper
 - [Unitat 1 – Tipat Estàtic: TypeScript (tipat fort i autocompletat intel·ligent)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-1.md)
 - [Unitat 2 – Fonaments de proves i Test-Driven Development (TDD) en TypeScript](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-2.md)
-- [Unitat 3 – Eines de Qualitat: Linting (ESLint), formateig (Prettier), i hooks de Git (Husky)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-3.md)
+- [Unitat 3: Programació Orientada a Objectes i Principis SOLID amb TypeScript](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-3.md)
 - [Unitat 4 – IA Aplicada: Generació, revisió i optimització de codi assistida per intel·ligència artificial](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-4.md)
 - [Unitat 5 – Seguretat Automatitzada i Mètriques de Qualitat en Aplicacions Web](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-2-grace-hopper/sprint-2-unitat-5.md)
 
