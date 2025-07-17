@@ -69,7 +69,7 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 - [Unitat 2 – Estructura de Components en Angular: Comunicació, Enllaç de Dades i Control de Flux](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-angular-katie-Bouman/sprint-4-unitat-2.md)
 - [Unitat 3 – Aplicació d'Estils en Components Angular: Control, Encapsulament i Responsivitat](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-angular-katie-Bouman/sprint-4-unitat-3.md)
 - [Unitat 4 – Gestió d'Esdeveniments i Formularis en Angular: Interactivitat i Reordenació](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-angular-katie-Bouman/sprint-4-unitat-4.md)
-- [Unitat 5 – Testing de Components en Angular 20: Fiabilitat i Qualitat](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-angular-katie-Bouman/sprint-4-unitat-.md)
+- [Unitat 5 – Testing de Components en Angular: Fiabilitat i Qualitat](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-angular-katie-Bouman/sprint-4-unitat-.md)
 
 **React**
 - [Unitat 1 – Introducció a la Filosofia de React](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-4-react-katie-Bouman/sprint-4-unitat-1.md)
