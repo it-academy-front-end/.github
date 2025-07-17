@@ -125,6 +125,6 @@ Durant la formació es desenvolupen **5 projectes** que permeten aplicar els con
 ### ✅ 4. Avaluació
 
 - [Prova de nivell tècnic inicial (HTML, CSS, JS, Testing)](https://github.com/it-academy-front-end/js-test-level-fizz-buzz)
-- [Qüestionari 0](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/avaluaci%C3%B3/questionaris/questionari0.md) 
-- [Qüestionari Basics](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/avaluaci%C3%B3/questionaris/questionariBasics.md) WIP
-- [Qüestionari Especialitat](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/avaluaci%C3%B3/questionaris/questionariEspecialitat.md) WIP
+- [Qüestionari 0](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/4-avaluacio/questionaris/questionari0.md) 
+- [Qüestionari Basics](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/4-avaluacio/questionaris/questionari-basics.md) WIP
+- [Qüestionari Especialitat](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/4-avaluacio/questionaris/questionari-especialitat.md) WIP
