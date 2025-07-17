@@ -115,10 +115,10 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 Durant la formació es desenvolupen **5 projectes** que permeten aplicar els coneixements treballats:
 
 1. [Projecte 1 – ITAlumini](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-1-italumni/1-projecte-1-kickoff.md)
-2. [Projecte 2 – Budget](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-2-budget.md)
-3. [Projecte 3 – Movies](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-3-movies.md)
-4. [Projecte 4 – Inprocode](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-3-movies.md)
-5. [Projecte 5 – Final project](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-5-final.md)
+2. [Projecte 2 – Budget](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-2-budget/1-projecte-2-kickoff.md)
+3. [Projecte 3 – Movies](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-3-movies/1-projecte-3-kickoff.md)
+4. [Projecte 4 – Inprocode](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-4-inprocode/1-projecte-4-kickoff.md)
+5. [Projecte 5 – Final project](https://github.com/it-academy-front-end/sprints-refactoring/tree/main/moodle/3-projectes/projecte-5-final/1-projecte-5-kickoff.md)
 
 ---
 
