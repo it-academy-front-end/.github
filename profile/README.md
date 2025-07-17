@@ -101,7 +101,7 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 - [Unitat 2: Optimització d'Aplicacions en Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-2.md)
 - [Unitat 3: Introducció a Angular SSR (Server-Side Rendering)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-3.md)
 - [Unitat 4: Angular Templates Avançats](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-4.md)
-- [Unitat 5: Integració d'IA en Aplicacions Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-6.md)
+- [Unitat 5: Integració d'IA en Aplicacions Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-5.md)
 
 **React**
 - [Unitat 1 – Introducció a Next.js](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-react-reshma-saujani/sprint-6-unitat-1.md)
