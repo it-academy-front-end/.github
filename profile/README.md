@@ -81,11 +81,11 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 #### Sprint 5 - Lea Verou (WIP)
 
 **Angular**
-- Unitat 1: [Enrutament en Aplicacions Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-1.md)
-- [Unitat 2: Serveis i Comunicació amb APIs (HttpClient)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-2.md)
-- [Unitat 3: Gestió de l'Estat amb Signals en Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-3.md)
-- [Unitat 4: Angular Authentication i Authorization](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-4.md)
-- [Unitat 5: Angular Material i Animacions](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-5.md)
+- [Unitat 1 – Enrutament en Aplicacions Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-1.md)
+- [Unitat 2 – Serveis i Comunicació amb APIs (HttpClient)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-2.md)
+- [Unitat 3 – Gestió de l'Estat amb Signals en Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-3.md)
+- [Unitat 4 – Angular Authentication i Authorization](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-4.md)
+- [Unitat 5 – Angular Material i Animacions](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-angular-lea-verou/sprint-5-unitat-5.md)
 
 **React**
 - [Unitat 1 – Enrutament Web amb React Router](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-5-react-lea-verou/sprint-5-unitat-1.md)
@@ -97,11 +97,11 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 #### Sprint 6 - Reshma Saujani (WIP)
 
 **Angular**
-- [Unitat 1: Observables amb Angular i la Interacció amb Signals](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-1.md)
-- [Unitat 2: Optimització d'Aplicacions en Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-2.md)
-- [Unitat 3: Introducció a Angular SSR (Server-Side Rendering)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-3.md)
-- [Unitat 4: Angular Templates Avançats](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-4.md)
-- [Unitat 5: Integració d'IA en Aplicacions Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-5.md)
+- [Unitat 1 – Observables amb Angular i la Interacció amb Signals](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-1.md)
+- [Unitat 2 – Optimització d'Aplicacions en Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-2.md)
+- [Unitat 3 – Introducció a Angular SSR (Server-Side Rendering)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-3.md)
+- [Unitat 4 – Angular Templates Avançats](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-4.md)
+- [Unitat 5 – Integració d'IA en Aplicacions Angular](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-angular-reshma-saujani/sprint-6-unitat-5.md)
 
 **React**
 - [Unitat 1 – Introducció a Next.js](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-react-reshma-saujani/sprint-6-unitat-1.md)
