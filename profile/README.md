@@ -108,7 +108,7 @@ Cada sprint es divideix en unitats amb contingut teòric, activitats, autoavalua
 - [Unitat 2 – Gestió d'estat global (Redux Toolkit + React Query)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-react-reshma-saujani/sprint-6-unitat-2.md)
 - [Unitat 3 – Formularis i Authenticació amb Next.js](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-react-reshma-saujani/sprint-6-unitat-3.md)
 - [Unitat 4 – Rendiment i Optimització d'aplicacions amb Next.js](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-react-reshma-saujani/sprint-6-unitat-4.md)
-- [Unitat 5 – Creació d'Aplicacions Web amb IA(Vercel v0)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-react-reshma-saujani/sprint-6-unitat-5.md)
+- [Unitat 5 – Creació d'Aplicacions Web amb IA (Vercel v0)](https://github.com/it-academy-front-end/sprints-refactoring/blob/main/moodle/2-sprints/sprint-6-react-reshma-saujani/sprint-6-unitat-5.md)
 
 ### 📦 3. Projectes de Sprint
 
